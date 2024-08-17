@@ -4,3 +4,4 @@ Built with the MERN stack, this project leverages a powerful neural network mode
 
 # Table of Contents
 - [Dataset](#dataset)
+- [Core Functionalities].(#core_functionality)
