@@ -39,13 +39,13 @@ Built with the MERN stack, this project leverages a powerful neural network mode
 
 ## To run the project 
 # Backend
-- # npm run dev
+-  npm run dev
 - Runs the backend server in development mode.
 - Server listens on the specified port (e.g., http://localhost:8200).
 - The server will reload when you make changes.
 
 # Frontend
-- # npm start
+-  npm start
 - Runs the frontend app in development mode.
 - Open http://localhost:3000 to view it in your browser.
 - The page will reload when you make changes.
