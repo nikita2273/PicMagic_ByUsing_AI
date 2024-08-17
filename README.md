@@ -12,7 +12,7 @@ Built with the MERN stack, this project leverages a powerful neural network mode
 ## Features
 - Users can input a text prompt that describes the desired image, and the system generates an image based on this prompt.
 - Provides clear messages for any issues (e.g., invalid input, API errors). This helps users understand and resolve issues quickly.
-- he project uses dotenv to securely manage API keys and other environment variables, ensuring that sensitive information is protected.
+- The project uses dotenv to securely manage API keys and other environment variables, ensuring that sensitive information is protected.
 - The backend is designed to handle multiple requests simultaneously, making it scalable for use in larger applications or by multiple users at the same time.
 - The project includes efforts to optimize image generation times and reduce latency, ensuring a faster and smoother user experience.
 - Allows users to download the generated image to their device.
@@ -37,15 +37,15 @@ Built with the MERN stack, this project leverages a powerful neural network mode
 - Common errors such as invalid API keys and billing issues have been identified and are being addressed in the code to ensure robust error handling.
 - Environment variables are managed using dotenv, allowing for secure storage of sensitive information like API keys.
 
-## To run the PicMagic project in both the frontend and backend
+## To run the project 
 # Backend
-- npm run dev
+- # npm run dev
 - Runs the backend server in development mode.
 - Server listens on the specified port (e.g., http://localhost:8200).
 - The server will reload when you make changes.
 
 # Frontend
-- npm start
+- # npm start
 - Runs the frontend app in development mode.
 - Open http://localhost:3000 to view it in your browser.
 - The page will reload when you make changes.
